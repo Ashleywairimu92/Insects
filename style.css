@@ -1,0 +1,20 @@
+#header{color: blue;
+font-size: xx-large;
+font-style: oblique;
+font-weight: bolder;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-underline-position: below ;}
+#header2{color: aqua;
+font-size: larger;
+text-align: left;}
+.wrapper{color: darkblue;
+font-family: 'Times New Roman', Times, serif;
+font-size: large;}
+body{background-image: url(https://media.istockphoto.com/id/1201252148/photo/butterflies.jpg?s=612x612&w=0&k=20&c=p8gc2ZTDkJCRsI9r2yHGD2Py4LSv7vznpJs0N-H3qRI=);
+background-repeat: no-repeat;
+background-size: cover;}
+footer{background: local;
+color: azure;
+text-align: right;
+padding-bottom: 0pc;}
